@@ -16,7 +16,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 import javafx.util.Duration;
-import java.util.regex.*;  // <-- add this line
+import java.util.regex.*;  
 
 
 import java.io.*;
